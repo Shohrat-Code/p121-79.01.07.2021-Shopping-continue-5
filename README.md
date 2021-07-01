@@ -6,6 +6,7 @@
 
 ##### 1. Asp layihəsi olaraq aşağıdakı taskları həll edin:
 **_Modern Agency(Home page), About, Services, Service details, Our team, Gallery, Contact_** pageləri üzrə<br />
+http://themesindustry.com/html/trax-2020/index-modern-agency.html<br /><br />
 i. Template-i Backend-ə keçirin;<br />
 ii. Bazanı qurun(Diqqətlə analiz etdikdən sonra);<br />
 iii. Admin paneli qurun(Login, register daxil);<br />
